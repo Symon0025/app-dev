@@ -1,4 +1,5 @@
-# 🍿My Favorite movies and series🎥 
+# My Favorite movies and series =)
+
 > ### *Top 1*
 >>
 > |Movie|Series|
