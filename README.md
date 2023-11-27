@@ -1,4 +1,4 @@
-# My Favorite movies and series =)
+# My Top 5 favorite movies and series = )
 
 > ### *Top 1*
 >>
