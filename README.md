@@ -4,7 +4,7 @@
 >>
 > |Movie|Series|
 > |:-:|:-:|
-> | **[The Shawshank Redemption](https://m.imdb.com/title/tt0111161/?ref_=chttp_t_1)** | **[Breaking Bad](https://m.imdb.com/title/tt0903747/?ref_=chttvtp_t_1)** |
+>  **[The Shawshank Redemption](https://m.imdb.com/title/tt0111161/?ref_=chttp_t_1)** | **[Breaking Bad](https://m.imdb.com/title/tt0903747/?ref_=chttvtp_t_1)** |
 
 
 > ### **Top 2**
